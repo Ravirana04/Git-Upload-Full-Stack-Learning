@@ -1,0 +1,5 @@
+package ravi.jdbc.dao;
+
+public class AccountDAO {
+
+}

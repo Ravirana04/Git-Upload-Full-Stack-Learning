@@ -1,0 +1,16 @@
+package ravi.jdbc.dao;
+
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+public class AccountDAO {
+	public static void main(String[] args) {
+		
+		try {
+			DriverManager.getConnection("jdbc:mysql://localhost/mydb", "JDBC", "R4@ravirana");
+			System.out.println(connection);
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+}

@@ -1,0 +1,17 @@
+127.0.0.1 - - [01/Sep/2023:19:49:27 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [01/Sep/2023:19:54:09 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:19:54:10 +0530] "GET /ServletBasics/servlet/training.servlets.HelloWorldServlet HTTP/1.1" 404 816
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:19:54:11 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [01/Sep/2023:20:04:48 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:20:04:49 +0530] "GET /ServletBasics/servlet/training.servlets.HelloWorldServlet HTTP/1.1" 404 816
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:20:04:49 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:20:06:47 +0530] "GET /ServletBasics/servlet/training.servlets.HelloWorldServlet HTTP/1.1" 404 816
+127.0.0.1 - - [01/Sep/2023:20:12:23 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:20:12:24 +0530] "GET /ServletBasics/servlet/training.servlets.HelloWorldServlet HTTP/1.1" 404 816
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:20:12:24 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [01/Sep/2023:21:35:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:21:35:19 +0530] "GET /ServletBasics/servlet/training.servlets.HelloWorldServlet HTTP/1.1" 404 816
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:21:35:31 +0530] "GET /ServletBasics/servlet/training.servlets.HelloWorldServlet HTTP/1.1" 404 816
+127.0.0.1 - - [01/Sep/2023:21:45:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:21:45:25 +0530] "GET /ServletBasics/Numbers.html HTTP/1.1" 200 339
+0:0:0:0:0:0:0:1 - - [01/Sep/2023:21:49:49 +0530] "GET /ServletBasics/additionServlet?number1=5&number2=5&submit=Submit HTTP/1.1" 200 18
